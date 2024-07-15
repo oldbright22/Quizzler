@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "282696985349",
+    "firebase_url": "https://ondemand-studycoach-default-rtdb.firebaseio.com",
+    "project_id": "ondemand-studycoach",
+    "storage_bucket": "ondemand-studycoach.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282696985349:android:82a7c7221590c02e70a56c",
+        "android_client_info": {
+          "package_name": "com.kahia.ondemand_studycoach.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282696985349-02192slk1v8qrqpqomopubqnd109uf6v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kahia.ondemand_studycoach.dev",
+            "certificate_hash": "52d3ae9246055da69f2049ca23b13148674e91e5"
+          }
+        },
+        {
+          "client_id": "282696985349-p88h8f280o1t9m02k5hqon9188q0fmos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1Kz_Kc-SUY1PrNhrW7qIzKlDryFfnt-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282696985349-p88h8f280o1t9m02k5hqon9188q0fmos.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
